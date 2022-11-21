@@ -1,0 +1,9 @@
+.aside-nav-list__item{
+    color: var(--white);
+    font-weight: 600;
+    padding-top: 1rem;
+}
+
+.aside-nav-list__item:first-child{
+    padding-top: 3rem;
+}

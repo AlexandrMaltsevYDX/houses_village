@@ -1,0 +1,8 @@
+.aside__button {
+    display: flex;
+    color: var(--white);
+    background-color: var(--yellow);
+    margin-top: auto;
+    margin-bottom: 3rem;
+    font-weight: 600;
+}
