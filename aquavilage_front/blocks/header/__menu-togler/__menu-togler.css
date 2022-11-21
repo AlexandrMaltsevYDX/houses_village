@@ -1,0 +1,17 @@
+.header__menu-toggle {
+    display: none;
+	width: 3.5rem;
+	height: 3.5rem;
+	border-radius: 99px;
+	background-color: var(--dark-green);
+	cursor: pointer;
+}
+
+
+@media (max-width: 1199px) { 
+    .header__menu-toggle  { 
+        display: block;
+        position: fixed;
+        right: 3rem;
+    } 
+  } 

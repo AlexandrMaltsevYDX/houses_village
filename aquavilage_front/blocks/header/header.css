@@ -1,0 +1,14 @@
+.header {
+    max-width: 1300px;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 2rem 3rem 3rem; 
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    color: var(--grey);
+}
+
+
+

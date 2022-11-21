@@ -1,0 +1,29 @@
+.header__hamburger {
+  position: relative;
+  top: calc(50% - 2px);
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 32px;
+}
+/* TODO добавить передвижение в правый верхний угол */
+
+.header__hamburger > span,
+.header__hamburger > span::before,
+.header__hamburger > span::after {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  border-radius: 99px;
+  background-color: var(--white);
+  transition-duration: 0.25s;
+}
+
+.header__hamburger > span::before {
+  content: "";
+  top: -8px;
+}
+.header__hamburger > span::after {
+  content: "";
+  top: 8px;
+}

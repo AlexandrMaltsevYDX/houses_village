@@ -1,0 +1,28 @@
+/*vendor*/ 
+@import url(../vendors/reset.css); 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap');
+
+/* colors */
+@import url(../vendors/variabls.css); 
+
+/* root */
+@import url(../blocks/root/root.css);
+
+/* page */
+@import url(../page/page.css);
+
+/* comons-blocks */
+@import url(../blocks/comons/logo/logo.css);
+@import url(../blocks/comons/nav-list/nav-list.css);
+@import url(../blocks/comons/nav-list/__item/__item.css);
+@import url(../blocks/comons/button/button.css);
+
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/__logo.css);
+@import url(../blocks/header/__nav-list/__nav-list.css);
+@import url(../blocks/header/__button/__button.css);
+@import url(../blocks/header/__menu-togler/__menu-togler.css);
+@import url(../blocks/header/__hamburger/__hamburger.css);
+
+

@@ -1,0 +1,14 @@
+.header__button {
+  display: flex;
+  margin-right: 5px;
+  background-color: var(--green);
+  color: var(--white);
+  font-weight: 600;
+}
+
+@media (max-width: 1199px) {
+  .header__button {
+    display: none;
+    color: var(--red);
+  }
+}

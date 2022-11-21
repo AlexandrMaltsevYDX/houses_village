@@ -1,0 +1,13 @@
+.nav-list__item {
+    display: flex;
+    align-items: center;
+    padding:0 1.5rem;
+}
+
+.nav-list__item:last-child {
+    padding-right: 0;
+}
+
+.nav-list__item:first-child {
+    padding-left: 0;
+}
