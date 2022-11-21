@@ -21,6 +21,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/__logo.css);
 @import url(../blocks/header/__nav-list/__nav-list.css);
+@import url(../blocks/header/__nav-list/__item/__item.css);
 @import url(../blocks/header/__button/__button.css);
 @import url(../blocks/header/__menu-togler/__menu-togler.css);
 @import url(../blocks/header/__hamburger/__hamburger.css);
