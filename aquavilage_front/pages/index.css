@@ -25,4 +25,10 @@
 @import url(../blocks/header/__menu-togler/__menu-togler.css);
 @import url(../blocks/header/__hamburger/__hamburger.css);
 
+/* aside */
+@import url(../blocks/aside/header.css);
+@import url(../blocks/aside/__logo/__logo.css);
+@import url(../blocks/aside/__nav-list/__nav-list.css);
+@import url(../blocks/aside/__button/__button.css);
+
 
