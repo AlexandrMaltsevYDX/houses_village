@@ -33,4 +33,15 @@
 @import url(../blocks/aside/__nav-list/__item/__item.css);
 @import url(../blocks/aside/__button/__button.css);
 
+/* main-title */
+@import url(../blocks/main-title/main-title.css);
+@import url(../blocks/main-title/__h1/__h1.css);
+@import url(../blocks/main-title/__links/__links.css);
+@import url(../blocks/main-title/__links/__button/__buttons.css);
+@import url(../blocks/main-title/__links/__youtube-note/__youtube-note.css);
+
+/* youtube-moovy */
+@import url(../blocks/youtube-moovy/youtube-moovy.css);
+@import url(../blocks/youtube-moovy/__player/__player.css);
+
 

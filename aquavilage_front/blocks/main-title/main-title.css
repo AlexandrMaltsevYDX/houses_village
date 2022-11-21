@@ -1,0 +1,8 @@
+/* надо создать отдельны класс назвать его контейнер */
+.main-title {
+    max-width: 1300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}

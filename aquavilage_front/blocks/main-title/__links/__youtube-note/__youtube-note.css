@@ -1,0 +1,9 @@
+.main-title__youtube-note {
+    color: var(--grey);
+}
+
+@media (max-width: 650px) {
+    .main-title__youtube-note {
+      display: none;
+    }
+  }

@@ -1,0 +1,6 @@
+.main-title__links {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 3rem 4rem; 
+    color: var(--white);
+}

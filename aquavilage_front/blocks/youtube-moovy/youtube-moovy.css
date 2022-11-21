@@ -1,4 +1,4 @@
-.header {
+.youtube-moovy {
     max-width: 1300px;
     display: flex;
     /* background-color: aqua; */
@@ -8,7 +8,5 @@
     /* padding-top: 2rem;
     padding-bottom: 3rem; */
     color: var(--grey);
+    min-height: 776px;
 }
-
-
-
