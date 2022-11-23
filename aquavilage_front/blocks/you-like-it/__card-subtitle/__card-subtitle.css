@@ -1,0 +1,6 @@
+.you-like-it__card-subtitle{
+    font-size: 1.5rem;
+    /* font-weight: 600; */
+    color: var(--grey);
+    padding-top: 1rem;
+}

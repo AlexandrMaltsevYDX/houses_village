@@ -1,0 +1,7 @@
+/* отрефакторить все подобный моменты с кнопкой, или полностью переписать
+должен быть один класс */
+.you-like-it__button.button {
+    background-color: var(--green);
+    color: var(--white);
+    margin-top: 3rem;
+}

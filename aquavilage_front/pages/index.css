@@ -53,5 +53,12 @@
 
 /* you-like-it */
 @import url(../blocks/you-like-it/you-like-it.css);
+@import url(../blocks/you-like-it/__card/__card.css);
+@import url(../blocks/you-like-it/__column/__column.css);
+@import url(../blocks/you-like-it/__card-title/__card-title.css);
+@import url(../blocks/you-like-it/__card-subtitle/__card-subtitle.css);
+@import url(../blocks/you-like-it/__card-title/_section/_section.css);
+@import url(../blocks/you-like-it/__card-subtitle/_section/_section.css);
+@import url(../blocks/you-like-it/__button/__button.css);
 
 
