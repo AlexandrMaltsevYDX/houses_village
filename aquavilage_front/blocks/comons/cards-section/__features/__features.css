@@ -1,0 +1,4 @@
+.cards-section__features {
+    display: flex;
+    justify-content: space-between;
+}

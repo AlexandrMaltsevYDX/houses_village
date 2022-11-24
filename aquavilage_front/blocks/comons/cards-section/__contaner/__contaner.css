@@ -1,0 +1,4 @@
+.cards-section_contaner {
+    display: flex;
+    overflow: auto;
+}
