@@ -61,4 +61,20 @@
 @import url(../blocks/you-like-it/__card-subtitle/_section/_section.css);
 @import url(../blocks/you-like-it/__button/__button.css);
 
+/* genplan */
+@import url(../blocks/genplan/genplan.css);
+@import url(../blocks/genplan/__title/title.css);
+@import url(../blocks/genplan/__info/__info.css);
+@import url(../blocks/genplan/__info-text/__info-text.css);
+@import url(../blocks/genplan/__info-legend/__info-legend.css);
+@import url(../blocks/genplan/__list-item/__list-item.css);
+@import url(../blocks/genplan/__circle/__circle.css);
+@import url(../blocks/genplan/__list-item-text/__list-item-text.css);
+@import url(../blocks/genplan/__img/__img.css);
+
+/* geo-sectors */
+@import url(../blocks/geo-sectors/geo-sectors.css);
+
+
+
 

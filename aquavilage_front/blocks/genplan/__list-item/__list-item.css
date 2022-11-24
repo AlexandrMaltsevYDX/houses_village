@@ -1,0 +1,14 @@
+.genpaln__list-item {
+    min-width: 300;
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+    align-items: center;
+}
+
+
+.genpaln__list-item:first-child,
+.genpaln__list-item:last-child{
+    padding-left: 0;
+}

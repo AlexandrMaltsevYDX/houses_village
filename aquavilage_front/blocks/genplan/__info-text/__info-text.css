@@ -1,0 +1,7 @@
+.genplan__info-text {
+    text-align: center;
+    font-size: 1.5rem;
+    /* font-weight: 600; */
+    color: var(--grey);
+    padding-bottom: 2rem;
+}

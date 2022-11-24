@@ -1,0 +1,7 @@
+.genplan__title {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 600;
+    color: var(--green);
+    padding-bottom: 2rem;
+}

@@ -1,0 +1,30 @@
+.genplan__circle {
+  width: 0.75rem;
+  height: 0.75rem;
+  /* margin-left: 1rem; */
+  border-radius: 99px;
+  background-color: var(--yellow);
+  /* margin-left: 3rem; */
+}
+
+
+.genplan__circle_green{
+    background-color: var(--green);
+}
+
+.genplan__circle_blue{
+    background-color: var(--blue);
+}
+
+.genplan__circle_yellow{
+    background-color: var(--yellow);
+}
+
+
+.genplan__circle_red{
+    background-color: var(--red);
+}
+
+.genplan__circle_grey{
+    background-color: var(--grey);
+}
