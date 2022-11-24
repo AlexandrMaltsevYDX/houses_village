@@ -1,0 +1,6 @@
+.callback-form__title {
+    font-size: 4rem;
+    font-weight: 600;
+    color: var(--green);
+    padding-bottom: 1rem;
+}

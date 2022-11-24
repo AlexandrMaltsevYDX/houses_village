@@ -1,0 +1,9 @@
+.callback-form__input{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+/* .callback-form__input:last-child{
+    align-self: self-end;
+} */

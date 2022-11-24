@@ -1,0 +1,8 @@
+.geo-secotrs__button.button {
+    width: 70%;
+    display: block;
+    text-align: center;
+    background-color: var(--yellow);
+    color: var(--white);
+    font-weight: 600;
+}

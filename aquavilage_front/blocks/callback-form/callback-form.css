@@ -1,0 +1,12 @@
+.callback-form {
+    max-width: 1300px;
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: center;
+    margin: 0 auto;
+    padding: 2rem 3rem 4rem;
+    flex-direction: column;
+    /* padding-top: 2rem;
+      padding-bottom: 3rem; */
+    /* color: var(--grey); */
+  }
