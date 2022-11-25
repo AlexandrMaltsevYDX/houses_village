@@ -1,0 +1,6 @@
+.download__action {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    justify-content: space-around;
+}

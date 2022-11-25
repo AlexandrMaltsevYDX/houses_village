@@ -34,6 +34,11 @@
 @import url(../blocks/comons/cards-section/__feature-title/__feature-title.css);
 @import url(../blocks/comons/cards-section/__feature-text/__feature-text.css);
 @import url(../blocks/comons/cards-section/__button/__button.css);
+@import url(../blocks/comons/download/download.css);
+@import url(../blocks/comons/download/__title/__title.css);
+@import url(../blocks/comons/download/__action/__action.css);
+@import url(../blocks/comons/download/__subtitle/__subtitle.css);
+@import url(../blocks/comons/download/__button/__button.css);
 
 
 /* header */

@@ -1,0 +1,9 @@
+.download{
+    max-width: 1300px;
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: space-between;
+    /* flex-direction: column; */
+    margin: 0 auto;
+    padding: 2rem 3rem 10rem; 
+}
