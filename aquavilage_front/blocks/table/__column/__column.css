@@ -1,7 +1,6 @@
 .table__column{
     display: flex;
     flex-direction: column;
-    
     overflow: hidden;
-    width: 33%;
+    width: 33.3%;
 }

@@ -1,0 +1,7 @@
+.table__feature-circle {
+    width: 5rem;
+    height: 5rem;
+    /* margin-left: 1rem; */
+    border-radius: 99px;
+    background-color: var(--yellow);
+}

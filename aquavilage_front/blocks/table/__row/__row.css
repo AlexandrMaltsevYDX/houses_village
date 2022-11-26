@@ -1,7 +1,7 @@
 .table__row {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     /* width: 100%; */
     /* overflow: hidden; */
     height: 830px;
